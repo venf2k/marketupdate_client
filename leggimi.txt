@@ -1,0 +1,12 @@
+Script python di esempio da utilizzare per caricare i dati nel db via rest api
+
+
+Next steps
+
+Fase 1:
+da completare test in rpaenv con lettura file excel con automagica:
+leggi excel generato da bloomberg e scrivi nel db
+
+Fase 2:
+automagicare anche caricamento dati da bloomberg
+
